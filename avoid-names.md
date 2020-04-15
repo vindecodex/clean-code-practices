@@ -48,3 +48,23 @@ for(let index = 0; index < students.length; index++) {
   let student = students[index]
 }
 ```
+
+---
+
+- Two Word Acronyms
+
+#### BAD
+```JavaScript
+class HTTPAPIClient {
+  // TODO ...
+}
+```
+
+#### GOOD
+```JavaScript
+class HttpApiClient {
+  // TODO ...
+}
+```
+
+---
