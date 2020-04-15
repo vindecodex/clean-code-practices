@@ -61,10 +61,10 @@ class HTTPAPIClient {
 ```
 
 #### GOOD
-<code>
+```JavaScript
 class <marked>HttpApiClient</marked> {
   // TODO ...
 }
-</code>
+```
 
 ---
