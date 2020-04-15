@@ -32,7 +32,7 @@ const students = [
 ];
 
 for(let i = 0; i < students.length; i++) {
-  let s = Students[i]
+  let s = students[i]
 }
 ```
 
