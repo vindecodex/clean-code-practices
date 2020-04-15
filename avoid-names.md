@@ -12,9 +12,39 @@ function a(x, y) {
 ##### GOOD
 ```JavaScript
 function add(first, second) {
-  // our body does adding the first and second parameters.
+  // our body does add the first and second parameters.
   return first + second
 }
 ```
 
 what is being done inside the method body must be the method name.
+
+---
+
+- Abbreviation Names
+
+#### BAD
+```JavaScript
+const students = [
+  "James",
+  "Arturo",
+  "Denver"
+];
+
+for(let i = 0; i < students.length; i++) {
+  let s = Students[i]
+}
+```
+
+#### GOOD
+```JavaScript
+const students = [
+  "James",
+  "Arturo",
+  "Denver"
+];
+
+for(let index = 0; index < students.length; index++) {
+  let student = students[index]
+}
+```
