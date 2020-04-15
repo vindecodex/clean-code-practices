@@ -7,4 +7,4 @@ Clean Codes are:
 
 ## Table of Contents
 
-[Avoid Names]()
+[Avoid Names](/avoid-names.md)
