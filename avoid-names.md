@@ -62,7 +62,7 @@ class HTTPAPIClient {
 
 #### GOOD
 ```JavaScript
-class HttpApiClient {
+class <marked>HttpApiClient</marked> {
   // TODO ...
 }
 ```
