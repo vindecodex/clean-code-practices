@@ -4,3 +4,7 @@ Clean Codes are:
 - [x] Easy to read
 - [x] Easy to improve
 - [x] Easy to fix
+
+## Table of Contents
+
+[Avoid Names]()
