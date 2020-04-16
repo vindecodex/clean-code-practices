@@ -2,14 +2,14 @@
 
 - None meaningful names
 
-##### BAD
+##### :x: BAD
 ```JavaScript
 function a(x, y) {
   return x + y
 }
 ```
 
-##### GOOD
+##### :white_check_mark: GOOD
 ```JavaScript
 function add(first, second) {
   // our body does add the first and second parameters.
@@ -23,7 +23,7 @@ what is being done inside the method body must be the method name.
 
 - Abbreviation Names
 
-#### BAD
+#### :x: BAD
 ```JavaScript
 const students = [
   "James",
@@ -36,7 +36,7 @@ for(let i = 0; i < students.length; i++) {
 }
 ```
 
-#### GOOD
+#### :white_check_mark: GOOD
 ```JavaScript
 const students = [
   "James",
@@ -53,14 +53,14 @@ for(let index = 0; index < students.length; index++) {
 
 - Two Word Acronyms
 
-#### BAD
+#### :x: BAD
 ```JavaScript
 class HTTPAPIClient {
   // TODO ...
 }
 ```
 
-#### GOOD
+#### :white_check_mark: GOOD
 ```JavaScript
 class HttpApiClient {
   // TODO ...

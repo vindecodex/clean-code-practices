@@ -4,9 +4,9 @@
 
 - Prefer using nouns in naming a class.
 
--[x] Dog
--[x] Teacher
--[x] Car
+- [x] Dog
+- [x] Teacher
+- [x] Car
 
 > Class or Types represents as category so it's best to name them with nouns.
 
