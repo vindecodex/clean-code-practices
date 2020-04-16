@@ -68,4 +68,4 @@ class HttpApiClient {
 ```
 
 ---
-[:arrow_left: Naming Class](/naming-class.md)
+[:arrow_right: Naming Class](/naming-class.md)
