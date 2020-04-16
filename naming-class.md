@@ -8,7 +8,7 @@
 - [x] Teacher
 - [x] Car
 
-> Class or Types represents as category so it's best to name them with nouns.
+> :gem: Class or Types represents as category so it's best to name them with nouns.
 
 
 ##### :no_entry_sign: Avoid verbs in naming a class
