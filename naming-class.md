@@ -36,20 +36,27 @@ Or Combination of adding adjective as prefixes to convey time/size.
 :no_entry_sign: But avoid adjectives only as class names
 
 :x: Small
+
 :x: Fast
+
 :x: Huge
 
 :no_entry_sign: Also avoid using vague prefixes
 
 :x: MyCar
+
 :x: ADog
+
 :x: TheCaster
+
 :x: ThisTeacher
 
 :no_entry_sign: Avoid single letter classnames or prefixes
 
 :x: C
+
 :x: TCar
+
 :x: BCar
 
 Use plural if used for collection class
