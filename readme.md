@@ -7,7 +7,7 @@ Clean Codes are:
 
 ## Table of Contents
 
-[Avoid Names](/avoid-names.md)
+[:arrow_right: Avoid Names](/avoid-names.md)
 
-[Naming Class](/naming-class.md)
+[:arrow_right: Naming Class](/naming-class.md)
 
