@@ -68,4 +68,4 @@ Use plural if used for collection class
 
 > :gem: Using small letter as classnames may confuse you with other variables.
 
-[:arrow_left: Avoid Names](/avoid-names.md)
+[:arrow_left: Avoid Names](/avoid-names.md) | [:arrow_right: Method and Function Names](/method-function-names.md)
