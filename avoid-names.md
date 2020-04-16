@@ -1,4 +1,4 @@
-## Avoid Names
+## :no_entry_sign: Avoid Names
 
 - None meaningful names
 
