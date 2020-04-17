@@ -39,4 +39,4 @@ Prefix with `has_` on past tense verbs
 Prefix with `get_` or `set_` if returning or setting a variable
 
 
-[:arrow_left: Naming Class](/naming-class.md) | [:arrow_right: Variable Names](/variable-names.md)
+[:arrow_left: Naming Class](/naming-class.md) | [Variable Names :arrow_right:](/variable-names.md)
