@@ -12,3 +12,5 @@ Clean Codes are:
 [:arrow_right: Naming Class](/naming-class.md)
 
 [:arrow_right: Method and Function Names](/method-function-names.md)
+
+[:arrow_right: Variable Names](/variable-names.md)
