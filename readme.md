@@ -14,3 +14,5 @@ Clean Codes are:
 [:arrow_right: Method and Function Names](/method-function-names.md)
 
 [:arrow_right: Variable Names](/variable-names.md)
+
+[:arrow_right: Naming Parameters](/parameter-names.md)
