@@ -40,4 +40,4 @@ Working with acronyms
 > :gem: Separate them using Camel Case
 
 
-[:arrow_left: Naming Method and Functions](/method-function-names.md) | [:arrow_right: ](/.md)
+[:arrow_left: Naming Method and Functions](/method-function-names.md) | [:arrow_right: Naming Parameter](/parameter-names.md)
